@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Rakibul Islam
 
-🤖 Machine Learning Enthusiast | 💻 Problem Solver | 🌱 Passionate Developer
+ Machine Learning Enthusiast |  Problem Solver |  Passionate Developer
 
 I am a passionate Computer Engineering student with a strong focus on **backend development**, **database design (Oracle & MySQL)**, and building **scalable, maintainable systems**.  
 My goal is to write **clean, efficient, and well-structured code** while continuously learning new technologies and sharing knowledge with the community.  
@@ -8,20 +8,20 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Currently studying at **AIUB (American International University Bangladesh)**
-- 🔭 Working on a project called **SmartLedger**
-- 🌱 Recently completed **C++ Data Structures & Algorithms**, learning **Machine Learning**, and exploring **C# frameworks**
-- 👯 Interested to learn more about **Open Source Projects** in the near future
-- 🛢 Strong in **RDBMS (Oracle, MySQL)** and **PL/SQL programming**
-- 📈 Always open to **collaboration and new ideas**
-- 💬 Ask me about **C, C++, Python, Java, C# development, Web Development, ML basics, and Database programming**
-- 📫 How to reach me: mdbonyamin2002@gmail.com
-- ⚡ Fun fact: *I enjoy solving programming problems and exploring new tech!*
+##  About Me
+-  Currently studying at **AIUB (American International University Bangladesh)**
+-  Working on a project called **SmartLedger**
+-  Recently completed **C++ Data Structures & Algorithms**, learning **Machine Learning**, and exploring **C# frameworks**
+-  Interested to learn more about **Open Source Projects** in the near future
+-  Strong in **RDBMS (Oracle, MySQL)** and **PL/SQL programming**
+-  Always open to **collaboration and new ideas**
+-  Ask me about **C, C++, Python, Java, C# development, Web Development, ML basics, and Database programming**
+-  How to reach me: mdbonyamin2002@gmail.com
+-  Fun fact: *I enjoy solving programming problems and exploring new tech!*
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -60,7 +60,6 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ## 📌 Featured Projects
 - [📂 SmartLedger](https://github.com/BonyAminAIUB/SmartLedger) – A smart ledger system project I am currently developing to manage and automate financial records.
-- [📂 Tour Guide App](https://github.com/BonyAminAIUB/Java-Project) – A Java-based application where tourists and guides can **login/register**, **select each other**, make **payments**, and **track location**. Designed to provide a seamless travel experience.
 - [📂 C++ DS & Algorithms](https://github.com/BonyAminAIUB/DSA) – Collection of data structures and algorithm implementations in C++ for practice and problem-solving.
 - [📂 Codeforces Solutions](https://github.com/BonyAminAIUB/Codeforces) – My solutions for various Codeforces problems.
 - [📂 ML Experiments](https://github.com/BonyAminAIUB/ML-Experiments) – Machine Learning practice projects including basic models and datasets exploration.
@@ -69,9 +68,9 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-bony-amin-50a653344/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.bony.amin.534899)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BonyAminAIUB)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-bony-amin-50a653344/)](https://www.linkedin.com/in/md-rakibul-915aba315/)
+[[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.bony.amin.534899)](https://www.facebook.com/mahbubul.rakib.21)
+[[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BonyAminAIUB)](https://codeforces.com/profile/MDRAKIBUL24)
 ---
 
-⭐️ From [BonyAminAIUB](https://github.com/BonyAminAIUB)
+⭐️ From [Md Rakibul Islam]([https://github.com/BonyAminAIUB](https://github.com/MdRakibulIslam21))
