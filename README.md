@@ -47,11 +47,6 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BonyAminAIUB&theme=tokyonight)
-
----
-
 ## 📌 Featured Projects
 - [📂 SmartLedger](https://github.com/BonyAminAIUB/SmartLedger) – A smart ledger system project I am currently developing to manage and automate financial records.
 - [📂 C++ DS & Algorithms](https://github.com/BonyAminAIUB/DSA) – Collection of data structures and algorithm implementations in C++ for practice and problem-solving.
