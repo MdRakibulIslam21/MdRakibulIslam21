@@ -2,7 +2,7 @@
 
  Machine Learning Enthusiast |  Problem Solver |  Passionate Developer
 
-I am a passionate Computer Engineering student with a strong focus on **backend development**, **database design (Oracle & MySQL)**, and building **scalable, maintainable systems**.  
+I am a passionate Computer Engineering student with a strong focus on **frontend & backend development**, **database design (Oracle & MySQL)**, and building **scalable, maintainable systems**.  
 My goal is to write **clean, efficient, and well-structured code** while continuously learning new technologies and sharing knowledge with the community.  
 I enjoy **solving programming problems**, working on **real-world projects**, and exploring **Machine Learning** and modern frameworks like **C# and Java**.
 
@@ -11,12 +11,12 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ##  About Me
 -  Currently studying at **AIUB (American International University Bangladesh)**
 -  Working on a project called **SmartLedger**
--  Recently completed **C++ Data Structures & Algorithms**, learning **Machine Learning**, and exploring **C# frameworks**
+-  Recently completed **HTML & CSS**, **C++ Data Structures & Algorithms**, learning **Machine Learning**, and exploring **C# frameworks**
 -  Interested to learn more about **Open Source Projects** in the near future
 -  Strong in **RDBMS (Oracle, MySQL)** and **PL/SQL programming**
 -  Always open to **collaboration and new ideas**
--  Ask me about **C, C++, Python, Java, C# development, Web Development, ML basics, and Database programming**
--  How to reach me: mdbonyamin2002@gmail.com
+-  Ask me about **C, C++, Python,HTML,CSS, Java, C# development, Web Development, ML basics, and Database programming**
+-  How to reach me: mahbubulrakib@gmail.com
 -  Fun fact: *I enjoy solving programming problems and exploring new tech!*
 
 ---
@@ -69,7 +69,10 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ## 🌐 Connect with Me
 https://www.linkedin.com/in/md-rakibul-915aba315/
+
+
 https://www.facebook.com/mahbubul.rakib.21
+
 https://codeforces.com/profile/MDRAKIBUL24
 
 ⭐️ From [Md Rakibul Islam](https://github.com/MdRakibulIslam21)
